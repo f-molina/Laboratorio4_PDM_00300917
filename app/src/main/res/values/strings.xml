@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pelicudex</string>
+    <string name="movie_name_string">Buscar pelicula</string>
+    <string name="movie_title_string">Avengers</string>
+    <string name="rate_ex_string">10</string>
+    <string name="lorem_30_string">Thanos se garcho a todos</string>
+    <string name="runtime_ex_string">185 min</string>
+    <string name="n_a_value">Avengers End Game</string>
+</resources>
