@@ -20,10 +20,11 @@ class MainActivity : AppCompatActivity() {
 
     fun initRecycleView(){
         viewManager = LinearLayoutManager(this)
+        movieAdapter = MovieAdapter(movieList)
         movie_list_rv.apply {
             setHasFixedSize(true)
             layoutManager = viewManager
-            //Adapter
+            adapter = movieAdapter
         }
     }
 }
